@@ -4,3 +4,6 @@
 [submodule "SIFT"]
 	path = SIFT
 	url = https://github.com/Nohbody/190308_SIFT_keypoints_and_descriptor_matching.git
+[submodule "Motion"]
+	path = Motion
+	url = https://github.com/Nohbody/190311_essential_matrices_and_motion_reconstruction.git
