@@ -1,3 +1,6 @@
 [submodule "Photogrammetry"]
 	path = Photogrammetry
 	url = https://github.com/Nohbody/190304_measurements_from_images.git
+[submodule "SIFT"]
+	path = SIFT
+	url = https://github.com/Nohbody/190308_SIFT_keypoints_and_descriptor_matching.git
