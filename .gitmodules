@@ -7,3 +7,6 @@
 [submodule "Motion"]
 	path = Motion
 	url = https://github.com/Nohbody/190311_essential_matrices_and_motion_reconstruction.git
+[submodule "Final"]
+	path = Final
+	url = https://github.com/Nohbody/project_4.git
